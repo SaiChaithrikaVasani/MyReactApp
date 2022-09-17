@@ -3,7 +3,7 @@ export const products = [
     id: 59,
     title: "Spring and summer shoes",
     price: 20,
-    quantity: 3,
+    quantity: 5,
     total: 60,
     discountPercentage: 8.71,
     discountedPrice: 55
